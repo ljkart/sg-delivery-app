@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="tk-multi-delivery">
+    <file>home.png</file>
+    <file>gear.png</file>
+    <file>gear_disabled.png</file>
+    <file>gear_hover.png</file>
+    <file>gear_pressed.png</file>
+    <file>home_disabled.png</file>
+    <file>home_hover.png</file>
+    <file>home_pressed.png</file>
+    <file>spreadsheet.png</file>
+  </qresource>
+</RCC>
