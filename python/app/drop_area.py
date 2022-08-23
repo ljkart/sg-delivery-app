@@ -12,6 +12,7 @@ import sgtk
 from tank.platform.qt import QtCore, QtGui
 
 
+
 def drop_area(cls):
     """
     A class decorator which adds needed overrides to any QWidget
