@@ -1,0 +1,18 @@
+filter_types:
+  Design: 1
+  Animation: 1
+  3dModel: 1
+  ColorKey: 1
+  Turnaround: 1
+  Expression: 1
+  Phonemes: 1
+  Blinks: 1
+  Poses: 1
+  HeadsUpDown: 1
+  Hands: 1
+  Feet: 1
+  Rig: 0
+  Cycles: 0
+
+output_folders:
+  asset: "05.Assets"
